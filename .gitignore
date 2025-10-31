@@ -3,4 +3,4 @@
 *.log
 *.properties
 !example.properties
-
+docs/*.md
