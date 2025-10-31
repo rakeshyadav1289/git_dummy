@@ -1,0 +1,6 @@
+*.out
+*.pyc
+*.log
+*.properties
+!example.properties
+
